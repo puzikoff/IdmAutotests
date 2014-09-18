@@ -15,6 +15,7 @@ namespace SeleniumTests
     public class RegistrationTest
     {
         /*GitHub try*/
+        /*Commit from Visual studio*/
         private IWebDriver driver;
         private StringBuilder verificationErrors;
         private string baseURL;
