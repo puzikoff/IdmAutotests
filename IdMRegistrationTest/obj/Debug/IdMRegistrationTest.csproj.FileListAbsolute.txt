@@ -1,0 +1,9 @@
+c:\users\chepelve\documents\visual studio 2012\Projects\IdMRegistrationTest\IdMRegistrationTest\bin\Debug\IdMRegistrationTest.dll
+c:\users\chepelve\documents\visual studio 2012\Projects\IdMRegistrationTest\IdMRegistrationTest\bin\Debug\IdMRegistrationTest.pdb
+c:\users\chepelve\documents\visual studio 2012\Projects\IdMRegistrationTest\IdMRegistrationTest\bin\Debug\nunit.framework.dll
+c:\users\chepelve\documents\visual studio 2012\Projects\IdMRegistrationTest\IdMRegistrationTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\chepelve\documents\visual studio 2012\Projects\IdMRegistrationTest\IdMRegistrationTest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\users\chepelve\documents\visual studio 2012\Projects\IdMRegistrationTest\IdMRegistrationTest\bin\Debug\WebDriver.dll
+c:\users\chepelve\documents\visual studio 2012\Projects\IdMRegistrationTest\IdMRegistrationTest\bin\Debug\WebDriver.Support.dll
+c:\users\chepelve\documents\visual studio 2012\Projects\IdMRegistrationTest\IdMRegistrationTest\obj\Debug\IdMRegistrationTest.dll
+c:\users\chepelve\documents\visual studio 2012\Projects\IdMRegistrationTest\IdMRegistrationTest\obj\Debug\IdMRegistrationTest.pdb
