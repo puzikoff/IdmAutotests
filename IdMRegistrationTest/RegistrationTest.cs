@@ -16,6 +16,7 @@ namespace SeleniumTests
     {
         /*GitHub try*/
         /*Commit from Visual studio*/
+        /*Commit from Visual studio 2*/
         private IWebDriver driver;
         private StringBuilder verificationErrors;
         private string baseURL;
