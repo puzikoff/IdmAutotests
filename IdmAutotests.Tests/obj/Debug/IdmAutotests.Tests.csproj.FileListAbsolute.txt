@@ -1,0 +1,12 @@
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Tests\obj\Debug\IdmAutotests.Tests.csprojResolveAssemblyReference.cache
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Tests\obj\Debug\IdMRegistrationTest.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Tests\obj\Debug\IdMRegistrationTest.pdb
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Tests\bin\Debug\IdMRegistrationTest.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Tests\bin\Debug\IdMRegistrationTest.pdb
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Tests\bin\Debug\IdmAutotests.Utilities.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Tests\bin\Debug\nunit.framework.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Tests\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Tests\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Tests\bin\Debug\WebDriver.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Tests\bin\Debug\IdmAutotests.Utilities.pdb
