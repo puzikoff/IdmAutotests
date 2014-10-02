@@ -14,6 +14,7 @@ namespace IdmAutotests.Tests
     [TestFixture]
     public class RegistrationTest : TestBase
     {
+        /*GitHub*/
         private string baseURL = "http://WIN-CV4AVBPAV8A/";
         private bool acceptNextAlert = true;
         string emptyUserNameError = "The User name field is required.";
