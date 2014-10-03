@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IdMRegistrationTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="emptyUserNameError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">The User name field is required.</Value>
+    </Setting>
+    <Setting Name="emptyPassError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">The Password field is required.</Value>
+    </Setting>
+    <Setting Name="incorCredentialsError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Incorrect credentials or no authorization.</Value>
+    </Setting>
+    <Setting Name="tagError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A potentially dangerous Request.Form value was detected from the client</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

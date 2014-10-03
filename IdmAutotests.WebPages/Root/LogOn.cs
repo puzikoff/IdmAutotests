@@ -25,12 +25,12 @@ namespace IdmAutotests.WebPages
         {
             LoginEdit.Text = UserName;
             PasswordEdit.Text = Password;
-            SubmitBtn.Click();           
+            SubmitBtn.Click();
         }
 
-        public void Open()
+        public string ValidationResult()
         {
-            Navigate(BaseUrl);
+            return ValidationSummary.InnerHtml;
         }
     }
 }

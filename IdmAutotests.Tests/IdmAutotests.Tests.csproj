@@ -6,8 +6,8 @@
     <ProjectGuid>{B3083410-3ABE-424D-A006-B25A11E293AB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IdMRegistrationTest</RootNamespace>
-    <AssemblyName>IdMRegistrationTest</AssemblyName>
+    <RootNamespace>IdmAutotests.Tests</RootNamespace>
+    <AssemblyName>IdmAutotests.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -71,11 +71,14 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ChangingAttribute.cs" />
-    <Compile Include="GoogleTranslateTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RegistrationTest.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
     <Compile Include="TestBase.cs" />
-    <Compile Include="LogOnTest.cs" />
+    <Compile Include="LogOnTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="ExtLibraries\nunit.framework.dll" />
@@ -93,6 +96,13 @@
       <Project>{36893b6a-8d8f-4a19-a921-7a3597959047}</Project>
       <Name>IdmAutotests.WebPages</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
