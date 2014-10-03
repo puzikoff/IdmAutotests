@@ -1,9 +1,9 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Autotests.WebPages.Properties" GeneratedClassName="Settings">
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IdmAutotests.WebPages.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
     <Setting Name="TestEnvironment" Type="System.String" Scope="User">
-      <Value Profile="(Default)">http://translate.google.com</Value>
+      <Value Profile="(Default)">http://WIN-CV4AVBPAV8A/idsrv</Value>
     </Setting>
   </Settings>
 </SettingsFile>

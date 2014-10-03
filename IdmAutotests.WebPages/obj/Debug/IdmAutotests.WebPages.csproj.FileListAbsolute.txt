@@ -1,0 +1,10 @@
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.WebPages\bin\Debug\IdmAutotests.WebPages.dll.config
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.WebPages\bin\Debug\IdmAutotests.WebPages.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.WebPages\bin\Debug\IdmAutotests.WebPages.pdb
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.WebPages\bin\Debug\IdmAutotests.Utilities.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.WebPages\bin\Debug\WebDriver.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.WebPages\bin\Debug\WebDriver.Support.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.WebPages\bin\Debug\IdmAutotests.Utilities.pdb
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.WebPages\obj\Debug\IdmAutotests.WebPages.csprojResolveAssemblyReference.cache
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.WebPages\obj\Debug\IdmAutotests.WebPages.dll
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.WebPages\obj\Debug\IdmAutotests.WebPages.pdb

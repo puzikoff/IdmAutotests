@@ -70,7 +70,7 @@ namespace IdmAutotests.Utilities
             return driver;
         }
 
-        public static void Navigate(string url)
+        public static void Navigate(Uri url)
         {
             Contract.Requires(url != null);
 

@@ -1,4 +1,3 @@
-C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Utilities\obj\Debug\IdmAutotests.Utilities.csprojResolveAssemblyReference.cache
 C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Utilities\bin\Debug\IdmAutotests.Utilities.dll.config
 C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Utilities\bin\Debug\IdmAutotests.Utilities.dll
 C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Utilities\bin\Debug\IdmAutotests.Utilities.pdb

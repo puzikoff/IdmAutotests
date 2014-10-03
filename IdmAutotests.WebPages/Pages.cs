@@ -1,17 +1,10 @@
 ﻿using IdmAutotests.WebPages.Root;
 
-namespace IdmAutotests.WebPages
+namespace IdmAutotests.WebPages.Root
 {
     public static class Pages
     {
-        public static Index Index = new Index();
+        public static LogOn LogOn = new LogOn();
 
-        public static class Manager
-        {
-            public static class Websites
-            {
-                public static Root.Manager.Website.Index Index = new Root.Manager.Website.Index();
-            }
-        }
-    }
+     }
 }

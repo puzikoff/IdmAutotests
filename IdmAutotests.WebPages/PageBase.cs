@@ -3,34 +3,19 @@ using System.Diagnostics.Contracts;
 using System.Text.RegularExpressions;
 using IdmAutotests.Utilities;
 using IdmAutotests.Utilities.WebElement;
-using Autotests.WebPages.Properties;
+using IdmAutotests.WebPages.Properties;
 
 namespace IdmAutotests.WebPages
 {
     public abstract class PageBase
     {
-        public Uri BaseUrl
-        {
-            get
-            {
-                Browser.WaitAjax();
-
-                return GetUriByRelativePath(RelativePath);
-            }
-        }
-
+        public Uri BaseUrl = new Uri("http://WIN-CV4AVBPAV8A/idsrv");
+        
         public void Open()
         {
             Contract.Requires(BaseUrl != null);
-            Contract.Ensures(Browser.Url == BaseUrl);
-
-            Browser.WaitAjax();
-
-            if (Browser.Url == BaseUrl) return;
-
-            Browser.Navigate(BaseUrl + "");
-
-            Contract.Assert(Browser.Url == BaseUrl, string.Format("{0} != {1}", Browser.Url, BaseUrl));
+            Browser.WaitAjax();  
+            Browser.Navigate(BaseUrl);
         }
 
         public Type PageName()
@@ -47,7 +32,7 @@ namespace IdmAutotests.WebPages
         {
             Contract.Requires(url != null);
 
-            Browser.Navigate(url+"");
+            Browser.Navigate(url);
         }
 
         protected static Uri GetUriByRelativePath(string relativePath)
