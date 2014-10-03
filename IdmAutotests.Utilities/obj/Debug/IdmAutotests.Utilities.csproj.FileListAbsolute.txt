@@ -8,3 +8,4 @@ C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Utilities\bin\Debug
 C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Utilities\bin\Debug\WebDriver.Support.dll
 C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Utilities\obj\Debug\IdmAutotests.Utilities.dll
 C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Utilities\obj\Debug\IdmAutotests.Utilities.pdb
+C:\Users\chepelve\Documents\GitHub\IdmAutotests\IdmAutotests.Utilities\obj\Debug\IdmAutotests.Utilities.csprojResolveAssemblyReference.cache
